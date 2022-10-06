@@ -1,1 +1,1 @@
-change to home directory
+added ls -l
