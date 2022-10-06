@@ -1,1 +1,1 @@
-added cd -  command
+la -a  command
