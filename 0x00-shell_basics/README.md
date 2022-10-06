@@ -1,1 +1,1 @@
-added ls -l to read directory
+added mkdir command
