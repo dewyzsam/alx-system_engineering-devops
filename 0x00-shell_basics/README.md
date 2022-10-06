@@ -1,1 +1,1 @@
-added mv  command
+added cd -  command
