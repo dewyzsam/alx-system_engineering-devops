@@ -1,1 +1,1 @@
-List more files
+added ls -l to read directory
